@@ -1,3 +1,3 @@
-# Welcome to my personal website:
+# Welcome to my personal GitHub site: 
 
-https://sonnerz.github.io
+sonnerz.github.io
