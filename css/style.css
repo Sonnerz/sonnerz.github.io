@@ -13,19 +13,6 @@ ul {
   list-style: none;
 }
 
-blockquote,
-q {
-  quotes: none;
-}
-
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -88,11 +75,6 @@ ul {
   border: 0px;
   margin: 69px 0;
   transition: all 0.3s;
-}
-
-.navbar-brand {
-  font-size: 36px;
-  font-family: 'Satisfy', cursive;
 }
 
 .navbar-default .navbar-brand,
@@ -196,16 +178,6 @@ ul {
   font-size: 24px;
 }
 
-.about-text p {
-  color: #444;
-}
-
-.abt-list li {
-  padding: 5px 0px;
-  font-size: 18px;
-  font-weight: 400;
-}
-
 #portfolio {
   background-color: rgba(50, 60, 70, 0.9);
 }
@@ -228,42 +200,6 @@ ul {
 
 #myGrid img {
   border: 1px solid #ccc;
-}
-
-.test-sec blockquote {
-  background: #eee;
-  display: block;
-  font-size: 14px;
-  line-height: 20px;
-  padding: 15px;
-  position: relative;
-}
-
-.test-sec blockquote::after {
-  content: '';
-  position: absolute;
-  bottom: -14px;
-  margin-left: 10px;
-  border-top: 14px solid #eee;
-  border-left: 14px solid transparent;
-  border-right: 14px solid transparent;
-}
-
-blockquote {
-  padding: 10px 20px;
-  margin: 0 0 20px;
-  font-size: 17.5px;
-  border-left: 5px solid rgba(0, 0, 0, 0.18);
-}
-
-.test-sec .carousel-info span {
-  display: block;
-}
-
-.test-sec span.testimonials-name {
-  color: #62646f;
-  font-weight: 600;
-  margin: 16px 0 5px;
 }
 
 #contact {
@@ -318,32 +254,11 @@ footer {
   background: #f0f1e9;
 }
 
-.footer a {
-  color: #BE2525;
-}
-
-.footer__navigation li,
-.social-list li {
-  display: inline-block;
-}
-
 .contact-sec h2 {
   font-size: 28px;
   color: #fff;
   font-weight: 400;
   padding: 15px 0px;
-}
-
-.footer__navigation li a {
-  display: inline-block;
-  color: #767676;
-  font-weight: 600;
-  font-variant-ligatures: common-ligatures;
-  font-size: 1.2em;
-  line-height: 1.625em;
-  margin-top: 0;
-  margin-bottom: 1.625em;
-  padding-right: 10px;
 }
 
 .contact-sec p {
@@ -365,11 +280,6 @@ footer {
   transition: all 0.5s ease-in 0s;
 }
 
-.carousel-info,
-blockquote {
-  float: left;
-}
-
 .social-list li {
   transition: 0.2s linear;
   -webkit-transition: 0.2s linear;
@@ -382,19 +292,6 @@ blockquote {
 .social-list li a {
   font-size: 24px;
   margin-right: 25px;
-}
-
-.type-underline,
-.type-underline:hover {
-  color: #767676;
-}
-
-.footer__lower {
-  margin-top: 3.25em;
-}
-
-.type--fine-print {
-  color: #767676;
 }
 
 .navbar-toggle {
@@ -430,18 +327,6 @@ blockquote {
   .navbar-nav>li>a {
     padding-top: 15px;
     padding-bottom: 15px;
-  }
-
-  .navbar-brand {
-    margin-top: 0px;
-  }
-
-  .carousel-info {
-    margin-bottom: 30px;
-  }
-
-  .type--fine-print {
-    text-align: center;
   }
 
   .text-center-xs {
