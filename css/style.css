@@ -71,7 +71,7 @@ ul {
 }
 
 .navbar-default {
-  background-color: transparent;
+  background: rgba(50, 60, 70, 0.9);
   border: 0px;
   margin: 69px 0;
   transition: all 0.3s;
@@ -102,6 +102,10 @@ ul {
 .navbar-default .navbar-nav>.active>a:hover {
   color: #ffdc00;
   background-color: transparent;
+}
+
+#thanks {
+  padding-top: 250px;
 }
 
 @media (max-width: 767px) {
@@ -139,11 +143,11 @@ ul {
 .banner-text p {
   font-size: 40px;
   font-weight: 400;
-  font-family: 'Questrial', sans-serif;
+  font-family: inherit;
 }
 
 .banner-text h2 span {
-  font-family: 'Satisfy', cursive;
+  font-family: inherit;
 }
 
 .overlay-detail {
@@ -167,6 +171,26 @@ ul {
   padding: 140px 0px;
 }
 
+#profile.section-padding {
+  padding: 0px 0px 0px 0px;
+}
+
+#profile .row {
+  padding-top: 200px;
+}
+
+#profile {
+  background: url('../img/9K2A0516_Insta.jpg') no-repeat fixed;
+  background-size: cover;
+  min-height: 730px;
+  position: relative;
+}
+
+#profile.bg-color {
+  background-color: rgba(0, 0, 0, 0.6);
+  min-height: 730px;
+}
+
 .title {
   font-size: 24px;
   margin-bottom: 50px;
@@ -176,6 +200,11 @@ ul {
   padding: 0px 25px 0px 0px;
   border-right: 5px solid #ffdc00;
   font-size: 24px;
+}
+
+.profile-text p,
+.title-text span {
+  color: #fff;
 }
 
 #portfolio {
@@ -321,6 +350,10 @@ footer {
   .title-text {
     margin-bottom: 15px;
   }
+
+  #profile.section-padding {
+    padding: 0px 0px 0px 0px;
+  }
 }
 
 @media (min-width: 100px) and (max-width: 550px) {
@@ -349,4 +382,13 @@ footer {
   .fa {
     font-size: 1em;
   }
+
+  #profile.section-padding {
+    padding: 108px 0px 0px 0px;
+  }
+
+  #profile .row {
+    padding-top: 50px;
+  }
+
 }
