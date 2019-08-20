@@ -1,0 +1,146 @@
+[
+  {
+    "url": "https://fullstack-django-issuetracker.herokuapp.com",
+    "title": "Django project",
+    "img": "img/thumb-django.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://sonnerz.github.io/project01-user-centric-frontend",
+    "title": "HTML-CSS Project",
+    "img": "img/thumb-divide.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://sour-forgery.glitch.me",
+    "title": "FCC - Express JS Exercise Tracker",
+    "img": "img/thumb-exercisetracker.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://valley-lasagna.glitch.me",
+    "title": "FCC - Express JS Request Header Parser Microservice",
+    "img": "img/thumb-requestHeader.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/qzmmrp",
+    "title": "FCC - D3 Bar Chart",
+    "img": "img/thumb-bar.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/YoewQJ",
+    "title": "FCC - D3 Scatter",
+    "img": "img/thumb-scatter.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/pYNEpJ",
+    "title": "FCC - Tribute page",
+    "img": "img/thumb-tribute.jpg",
+    "col": 1
+  },
+  {
+    "url": "https://practical-python.herokuapp.com",
+    "title": "Python Project",
+    "img": "img/thumb-riddle.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://sonnerz.github.io/project02-interactive-frontend",
+    "title": "HTML, CSS, JS Project",
+    "img": "img/thumb-nasa.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/MxbVVL",
+    "title": "FCC - Form page",
+    "img": "img/thumb-survey.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/VNpMeJ",
+    "title": "FCC - Random Quotes, React",
+    "img": "img/thumb-quote.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/Nmyxqr",
+    "title": "FCC - Drum machine, React",
+    "img": "img/thumb-drum.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/PrewMg",
+    "title": "FCC - D3 Heat Chart",
+    "img": "img/thumb-heat.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://vagabond-teeth.glitch.me",
+    "title": "FCC - Express JS, TimeStamp project",
+    "img": "img/thumb-timesstamp.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/YodQja",
+    "title": "FCC - D3 Treemap",
+    "img": "img/thumb-tree.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://data-centric-cookbook.herokuapp.com",
+    "title": "Python Flask Project",
+    "img": "img/thumb-cookbook.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://fortune-heat.glitch.me",
+    "title": "FCC - Express JS File Metadata Microservice",
+    "img": "img/thumb-metadataservice.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/PLWxep",
+    "title": "FCC - Product page",
+    "img": "img/thumb-product.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/vPeOKX",
+    "title": "FCC - Technical Document",
+    "img": "img/thumb-tech.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/XQgZPE",
+    "title": "FCC - Markdown Editor, React",
+    "img": "img/thumb-markdown.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/YMvJam",
+    "title": "FCC - Calculator, React",
+    "img": "img/thumb-calc.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/ydxeNK",
+    "title": "FCC - D3 Choropleth Chart",
+    "img": "img/thumb-choropleth.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://codepen.io/sonnerz/full/jJGqjR",
+    "title": "FCC - Portfolio page",
+    "img": "img/thumb-projects.jpg",
+    "col": 3
+  },
+  {
+    "url": "https://mirage-beat.glitch.me",
+    "title": "FCC - Express JS URL Shortener Microservice",
+    "img": "img/thumb-urlshortener.jpg",
+    "col": 3
+  }
+]

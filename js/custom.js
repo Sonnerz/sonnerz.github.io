@@ -41,3 +41,39 @@
 
 })(jQuery);
 
+
+$.getJSON("projects.json", function (projects) {
+
+  const projList1 = document.querySelector('#projects-col1');
+  const projList2 = document.querySelector('#projects-col2');
+  const projList3 = document.querySelector('#projects-col3');
+
+  const col1 = projects
+    .filter(p => p.col == 1)
+    .map(function (p) {
+      const html = `<a href="${p.url}"title="${p.title}"><img src="${p.img}"class="img-responsive" alt="${p.title}"></a>`;
+      return html;
+    }).join('');
+
+
+  const col2 = projects
+    .filter(p => p.col == 2)
+    .map(function (p) {
+      const html = `<a href="${p.url}"title="${p.title}"><img src="${p.img}"class="img-responsive" alt="${p.title}"></a>`;
+      return html;
+    }).join('');
+
+
+  const col3 = projects
+    .filter(p => p.col == 3)
+    .map(function (p) {
+      const html = `<a href="${p.url}"title="${p.title}"><img src="${p.img}"class="img-responsive" alt="${p.title}"></a>`;
+      return html;
+    }).join('');
+
+  projList1.innerHTML = col1;
+  projList2.innerHTML = col2;
+  projList3.innerHTML = col3;
+
+}
+);
