@@ -71,9 +71,12 @@ $.getJSON("projects.json", function (projects) {
       return html;
     }).join('');
 
-  projList1.innerHTML = col1;
-  projList2.innerHTML = col2;
-  projList3.innerHTML = col3;
+  if (window.location.pathname != "/index.html") {
+    projList1.innerHTML = col1;
+    projList2.innerHTML = col2;
+    projList3.innerHTML = col3;
+  };
+
 
 }
 );
