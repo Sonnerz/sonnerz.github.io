@@ -36,6 +36,12 @@
     "col": 1
   },
   {
+    "url": "https://fcc-proj-issue-tracker.glitch.me/",
+    "title": "FCC - Express JS Project Issue Tracker",
+    "img": "img/thumb-issue.jpg",
+    "col": 1
+  },
+  {
     "url": "https://codepen.io/sonnerz/full/pYNEpJ",
     "title": "FCC - Tribute page",
     "img": "img/thumb-tribute.jpg",
@@ -87,6 +93,12 @@
     "url": "https://codepen.io/sonnerz/full/YodQja",
     "title": "FCC - D3 Treemap",
     "img": "img/thumb-tree.jpg",
+    "col": 2
+  },
+  {
+    "url": "https://fcc-library-personal.glitch.me",
+    "title": "FCC - Express JS, Personal Library Project",
+    "img": "img/thumb-library.jpg",
     "col": 2
   },
   {

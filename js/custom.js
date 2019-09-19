@@ -76,7 +76,5 @@ $.getJSON("projects.json", function (projects) {
     projList2.innerHTML = col2;
     projList3.innerHTML = col3;
   };
-
-
 }
 );
