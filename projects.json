@@ -132,6 +132,12 @@
     "col": 3
   },
   {
+    "url": "https://fcc-stockchecker.glitch.me/",
+    "title": "FCC - Express JS Stock Price Checker",
+    "img": "img/thumb-stock.jpg",
+    "col": 3
+  },
+  {
     "url": "https://codepen.io/sonnerz/full/YMvJam",
     "title": "FCC - Calculator, React",
     "img": "img/thumb-calc.jpg",
