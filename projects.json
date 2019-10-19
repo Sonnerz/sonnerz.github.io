@@ -162,6 +162,12 @@
     "col": 3
   },
   {
+    "url": "https://sonnerz.github.io/react-redux-Pomodoro-Clock/",
+    "title": "Pomodoro clock with React and Redux",
+    "img": "img/thumb-pomo-redux.jpg",
+    "col": 3
+  },
+  {
     "url": "https://codepen.io/sonnerz/full/jJGqjR",
     "title": "FCC - Portfolio page",
     "img": "img/thumb-projects.jpg",
